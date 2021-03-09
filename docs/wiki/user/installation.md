@@ -26,6 +26,11 @@ You can configure ACRE2 features to your needs. ACRE2 uses the [CBA Settings Sys
 
 Server administrators can get available settings using the [export/import features](https://github.com/CBATeam/CBA_A3/wiki/CBA-Settings-System#export-and-import-function). The options then need to go into [CBA's userconfig or an addon](https://github.com/CBATeam/CBA_A3/wiki/CBA-Settings-System#userconfig). Server settings can be configured to override specific mission settings.
 
+### Linux
+
+Please note that this is not officially supported!  
+There is a gudie on how to get ACRE2 (and Arma in general) to work on Steam Proton by ninelore. It is available [here](https://armaworld.de/forum/thread/4992-ger-eng-arma-on-linux-ninelore-s-guide-acre-tfar-working/?postID=39909#post39909).
+
 ### Troubleshooting
 
 - **WARNING: ACRE IS NOT CONNECTED TO TEAMSPEAK!**  
